@@ -1,6 +1,4 @@
-# Création du texte formaté en .txt
-text_content = """
-🌟 Développeur Passionné | Python 🐍, PHP 🖥️ & HTML 🌐
+# 🌟 Développeur Passionné | Python 🐍, PHP 🖥️ & HTML 🌐
 
 Bienvenue sur mon espace GitHub ! 🚀 Je suis un développeur passionné par la création de solutions innovantes et élégantes à travers les langages Python, PHP et HTML. Mon objectif ? Transformer des idées 💡 en projets concrets 🎯 qui font la différence.
 
@@ -20,12 +18,3 @@ Bienvenue sur mon espace GitHub ! 🚀 Je suis un développeur passionné par 
 - Créer des expériences utilisateur qui marquent 💻.
 
 ✨ Si tu veux échanger sur un projet, une idée ou collaborer : n’hésite pas ! Mes repos sont là pour explorer, échanger et construire ensemble. 💬.
-"""
-
-# Enregistrement en fichier texte
-file_path = "/mnt/data/README_profile.txt"
-with open(file_path, "w", encoding="utf-8") as file:
-    file.write(text_content)
-
-file_path
-****
