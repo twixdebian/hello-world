@@ -17,4 +17,4 @@ Bienvenue sur mon espace GitHub ! 🚀 Je suis un développeur passionné par 
 - Résoudre des défis complexes 🏆.
 - Créer des expériences utilisateur qui marquent 💻.
 
-✨ Si tu veux échanger sur un projet, une idée ou collaborer : n’hésite pas ! Mes repos sont là pour explorer, échanger et construire ensemble. 💬.
+✨ Si tu veux échanger sur un projet, une idée ou collaborer : n’hésite pas ! Mes repos sont là pour explorer, échanger et construire ensemble.
